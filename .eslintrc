@@ -30,6 +30,9 @@
     "react/prop-types": ["off"],
     "operator-linebreak": ["off"],
     "object-curly-newline": ["off"],
-    "react/jsx-one-expression-per-line": ["off"]
+    "react/jsx-one-expression-per-line": ["off"],
+    "no-trailing-spaces": ["off"],
+    "padded-blocks": ["off"],
+    "no-loop-func": ["off"]
   }
 }
